@@ -1,0 +1,9 @@
+.result {
+    display: block;
+    color: greenyellow;
+}
+
+.negativ {
+    display: block;
+    color: red;
+}
